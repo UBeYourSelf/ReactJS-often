@@ -1,0 +1,9 @@
+{
+  "name": "ReactJS-often",
+  "version": "1.0.0",
+  "description": "Have all commonly used components in one place only for reactjs",
+  "main": "index.js",
+  "repository": "https://github.com/UBeYourSelf/ReactJS-often.git",
+  "author": "jagadish594 <jagadish594@gmail.com>",
+  "license": "MIT"
+}
